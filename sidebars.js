@@ -44,6 +44,11 @@ module.exports = {
         "components/concepts/incidents",
         "components/concepts/variables",
         "components/concepts/expressions",
+        {
+          "Access control": [
+            "components/concepts/access-control/applications",
+          ]
+        }
       ],
       "Cloud Console": [
         "components/cloud-console/introduction",
@@ -564,6 +569,7 @@ module.exports = {
           ],
         }, {
           "Guides": [
+            "self-managed/identity/guides/adding-an-application",
             "self-managed/identity/guides/configure-external-identity-provider"
           ],
         }, {
