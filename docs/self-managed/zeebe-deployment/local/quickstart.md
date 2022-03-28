@@ -116,7 +116,7 @@ the types `payment-service`, `inventory-service`, and `shipment-service`.
 First, let's deploy the process to the Zeebe broker.
 
 ```
-./bin/zbctl --insecure deploy order-process.bpmn
+./bin/zbctl --insecure deploy resource order-process.bpmn
 ```
 
 ```
