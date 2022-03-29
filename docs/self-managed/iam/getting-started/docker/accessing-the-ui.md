@@ -5,7 +5,7 @@ sidebar_label: "Step 3: Accessing the UI"
 ---
 
 :::caution
-IAM has been replaced with Identity for version 1.4+. Please refer to the
+IAM has been replaced with Identity for version 1.4+. Refer to the
 [Identity documentation](../../../identity/what-is-identity.md) for ongoing support.
 :::
 
